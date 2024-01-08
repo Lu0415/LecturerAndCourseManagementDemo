@@ -1,0 +1,2 @@
+# LecturerAndCourseManagementDemo
+講師及課程管理系統 demo
